@@ -12,9 +12,9 @@
     <Authors>Mike Frederiksen</Authors>
     <Description>NuGet auditing utilities for vulnerabilities and license compliance.</Description>
     <PackageTags>nuget;audit;vulnerability;license</PackageTags>
-    <RepositoryUrl>https://github.com/your/repo</RepositoryUrl>
+    <RepositoryUrl>https://github.com/B5160R/NuAudit</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/your/repo</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/B5160R/NuAudit</PackageProjectUrl>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
