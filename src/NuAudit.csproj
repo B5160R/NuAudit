@@ -8,7 +8,7 @@
     <Nullable>enable</Nullable>
     <IsPackable>true</IsPackable>
     <PackageId>NuAudit</PackageId>
-    <Version>1.0.9</Version>
+    <Version>1.0.10</Version>
     <Authors>Mike Frederiksen</Authors>
     <Description>NuGet auditing utilities for vulnerabilities and license compliance.</Description>
     <PackageTags>nuget;audit;vulnerability;license</PackageTags>
